@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'repair.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'repair',
+        'NAME': 'repairshop',
         'USER': 'rappadmin',
         'PASSWORD': 'password',
         'HOST': 'localhost',
